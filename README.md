@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">I’m interested in Coding, Data Analysis, Data Science, ML</h3>
 
-<img align="right" alt="Machine Learning" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif"> 
+<img align="right" alt="Machine Learning" width="350" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan0237&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan0237" /> </p>
 
